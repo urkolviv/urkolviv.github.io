@@ -1,0 +1,121 @@
+body {
+background: url(cropped-s3.jpg) no-repeat;
+ -moz-background-size: 100%;
+ -webkit-background-size: 100%;
+ -o-background-size: 100%;
+ background-size: 100%;
+}
+.d14 {
+    margin-left: 980px;
+    position: fixed;
+}
+.container {
+    position: relative;
+} 
+
+.d1 {
+    background-color: black;
+    width: 380px;
+    height: 50x;
+    margin-left: 330px;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+  
+  
+}
+.k {
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.k1 {
+    margin-top: 100px;
+    margin-left: 400px;
+   
+}
+.k2 {
+    margin-top: 20px;
+    margin-left: 415px;
+   
+}
+.k3 {
+    margin-top: 20px;
+    margin-left: 408px;
+   
+
+}
+.w {
+    position: fixed;
+    margin-top: 35px;
+    margin-left: 610px;
+}
+.z {
+    position: fixed;
+    margin-top: 40px;
+    margin-left: 488px;
+}
+.u {
+    position: fixed;
+    margin-top: 40px;
+    margin-left: 373px;
+}
+.d3 {
+    margin-top: 130px;
+    margin-left: 370px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    width: 300px;
+    height: 45px;
+    position: fixed;
+}
+.sotial {
+    width: 300px;
+    height: 35px;
+    position: fixed;
+    background-color: black;
+    margin-top: 200px;
+    margin-left: 370px;
+}
+.youtube {
+  margin-top: 198px;
+  margin-left: 620px;
+  position: fixed;
+}
+.inst {
+  margin-top: 198px;
+  margin-left:  575px;
+  position: fixed;    
+}
+.tw {
+  margin-top: 198px;
+  margin-left: 530px;
+  position: fixed;    
+}
+.od {
+   margin-top: 198px;
+   margin-left: 480px;
+   position: fixed;    
+}
+.vk {
+   margin-top: 198px;
+   margin-left: 430px;
+   position: fixed;    
+}
+.fc {
+   margin-top: 198px;
+   margin-left: 380px;
+   position: fixed;    
+}
+.d16 {
+    position: fixed;
+    margin-top: 275px;
+    margin-left: 385px;
+    color: aliceblue;
+}
+
+    
+
+
